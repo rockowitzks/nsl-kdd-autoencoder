@@ -2,6 +2,8 @@
 
 This repository contains code and resources to train both binary and multi-class autoencoders and classifiers using the NSL KDD dataset.
 
+Approach inspired by [Network Intrusion Detection using Deep Learning](https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
